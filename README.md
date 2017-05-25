@@ -8,3 +8,5 @@ Documenting my reign as the UMassD NSBE Chapter President of 2017-2018. All tech
 - Instagram: https://www.instagram.com/umassdnsbe/
 - MyOrgs: Link TBA
 - Other social media site TBD (Flickr, Facebook, etc.)
+- [Planning Wiki] (https://github.com/semirahd/UMassDNSBE/wiki)
+- [NSBE Planning Google Doc Folder] (Link TBD)
